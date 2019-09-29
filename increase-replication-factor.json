@@ -1,0 +1,23 @@
+{"version":1,
+  "partitions":[
+    {"topic":"posts","partition":0,"replicas":[1,2,3]},
+    {"topic":"posts","partition":1,"replicas":[1,2,3]},
+    {"topic":"posts","partition":2,"replicas":[1,2,3]},
+    {"topic":"posts","partition":3,"replicas":[1,2,3]},
+    {"topic":"posts","partition":4,"replicas":[1,2,3]},
+    {"topic":"posts","partition":5,"replicas":[1,2,3]},
+    {"topic":"posts","partition":6,"replicas":[1,2,3]},
+    {"topic":"posts","partition":7,"replicas":[1,2,3]},
+    {"topic":"posts","partition":8,"replicas":[1,2,3]},
+    {"topic":"posts","partition":9,"replicas":[1,2,3]},
+    {"topic":"posts","partition":10,"replicas":[1,2,3]},
+    {"topic":"posts","partition":11,"replicas":[1,2,3]},
+    {"topic":"posts","partition":12,"replicas":[1,2,3]},
+    {"topic":"posts","partition":13,"replicas":[1,2,3]},
+    {"topic":"posts","partition":14,"replicas":[1,2,3]},
+    {"topic":"posts","partition":15,"replicas":[1,2,3]},
+    {"topic":"posts","partition":16,"replicas":[1,2,3]},
+    {"topic":"posts","partition":17,"replicas":[1,2,3]},
+    {"topic":"posts","partition":18,"replicas":[1,2,3]},
+    {"topic":"posts","partition":19,"replicas":[1,2,3]}
+  ]}
